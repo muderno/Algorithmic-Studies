@@ -5,7 +5,7 @@ package muderno.net.AlgorithmicStudies;
 
 /**
  * @author Vinicius Barros
- *
+ * 
  */
 public class Transpose {
 

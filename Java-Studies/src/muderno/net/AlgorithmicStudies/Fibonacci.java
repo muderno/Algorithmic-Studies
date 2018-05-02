@@ -73,7 +73,7 @@ public class Fibonacci {
 	 * @param n
 	 *            is the term of the Fibonacci's sequence you want to know the
 	 *            value.
-	 * @return the value of n term.
+	 * @return the value of n term. 
 	 */
 	public static long bottomUp(int n) {
 		if (n < 0)
